@@ -1,22 +1,23 @@
+/* Styles for Resume */
 body {
 font-family: 'Open Sans', Arial, sans-serif;
   color:#444;
   font-weight:400;
 }
-
+/* NAME */
 h1 {
   color:#33485e;
   text-transform:uppercase;
   text-align:center;
   font-size:3em;
 }
-
+/* TITLE */
 strong {
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
 }
-
+/* SECTION TITLES */
 h2 {
 font-size:1.5em;
 text-transform:uppercase;
@@ -24,20 +25,23 @@ background-color:#33485e
 color:#ffffff;
 font-weight:400;
 }
-
+/* JOB TITLES */
 h3 {
   font-weight:600;
   font-size:1.5em;
 }
-
+/* JOB ORGANIZATIONS */
 h4 {
   font-weight:400;
   font-size:1.5em;
 
 }
-
+/* JOB DATES */
 h5 {
   font-weight:400;
   font-size:1em;
 
+}
+li {
+  font-size:1em
 }
