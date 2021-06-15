@@ -16,10 +16,16 @@ font-family: 'Open Sans', Arial, sans-serif;
   margin:0 auto;
 }
 /* TITLE */
-strong {
+#title {
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
+  font-weight:600;
+  text-align:center;
+  margin-top:20px;
+  margin-bottom:0;
+  margin-right:0;
+  margin-left:0;
         }
 /* SECTION TITLES */
 .sectionheader {
@@ -32,31 +38,53 @@ margin-top:20px;
 margin-bottom:10px;
 margin-left:0;
 margin-right:0;
-width:70%
+width:70%;
 min-width:300px;
     }
 /* JOB TITLES */
-h3 {
+.jobtitle {
   font-weight:600;
   font-size:1.5em;
   }
 /* JOB ORGANIZATIONS */
-h4 {
+.organizaton {
   font-weight:400;
-  font-size:1.5em;
+  font-size:1.25em;
   font-style: italic;
   }
 /* JOB DATES */
-h5 {
+.date {
   font-weight:400;
   font-size:1em;
   font-style: italic;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:0;
+  margin-right:0;
     }
 li {
   font-size:1em;
     }
 #container{
   width:100%;
-  max-width:1200px
+  max-width:1200px;
   margin:0 auto;
+}
+.menu{
+  margin:0;
+  padding:0;
+  text-align:center;
+  display:inline;
+}
+#degrees{
+  margin-top:5px;
+  margin-bottom:0;
+  margin-right:0;
+  margin-left:0;
+}
+#do{
+  margin-top:5px;
+  margin-bottom:0;
+  margin-right:0;
+  margin-left:0;
 }
