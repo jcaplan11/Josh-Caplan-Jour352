@@ -16,32 +16,32 @@ strong {
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
-}
+        }
 /* SECTION TITLES */
 h2 {
 font-size:1.5em;
 text-transform:uppercase;
-background-color:#33485e
+background-color:#33485e;
 color:#ffffff;
 font-weight:400;
-}
+    }
 /* JOB TITLES */
 h3 {
   font-weight:600;
   font-size:1.5em;
-}
+  }
 /* JOB ORGANIZATIONS */
 h4 {
   font-weight:400;
   font-size:1.5em;
-
-}
+  font-style: italic;
+  }
 /* JOB DATES */
 h5 {
   font-weight:400;
   font-size:1em;
-
-}
+  font-style: italic;
+    }
 li {
-  font-size:1em
-}
+  font-size:1em;
+    }
