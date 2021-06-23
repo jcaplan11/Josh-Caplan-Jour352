@@ -22,20 +22,30 @@ p {
   font-family: 'Montserrat', sans-serif;
   font-size: 1em;
   text-decoration: underline;
+  text-align: center;
 }
 #chaptertext {
   font-family: 'Montserrat', sans-serif;
   font-size: 1em;
   font-style: italic;
+  text-align:center;
 }
-#image {
-width: 80%;
-margin-left: auto;
-margin-right: auto;
+.images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  }
+
+#caption {
+font-family: 'Montserrat', sans-serif;
+text-transform: lowercase;
+color:grey;
+text-align: center;
 }
 
-#caption{
-font-family: 'Montserrat', sans-serif;
-font-weight: lighter;
-text-transform: lowercase;
+#footer{
+  background-color: black;
+  color: white;
+  text-align: center;
 }
