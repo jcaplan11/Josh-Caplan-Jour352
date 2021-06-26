@@ -1,0 +1,85 @@
+
+#footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#boxL{
+  background-color: #B5D5C8;
+  width: 395px;
+  height: 360px;
+  margin-left: 100px;
+  margin-top: 25px;
+}
+
+#boxR {
+  background-color: #B5D5C8;
+  width: 395px;
+  height: 360px;
+  margin-right: 100px;
+  margin-top: 25px;
+}
+
+#boxC {
+  background-color: #B5D5C8;
+  width: 1920px;
+  height: 200px;
+  margin-bottom: 100px;
+}
+#name {
+  margin-left: 100px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  text-decoration: underline;
+  font-size: 60px;
+}
+#titletop{
+  margin-left: 100px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+
+#headlinec {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: #B5D5C8;
+  text-decoration: underline;
+  font-size: 50px;
+}
+#headlineL{
+  font-family: 'Raleway', sans-serif;
+  text-align: left;
+  margin-left: 185px;
+  margin-top: 25px;
+  color: #B5D5C8;
+  text-decoration: underline;
+  font-size: 50px
+}
+
+#title{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  font-size: 35px;
+}
+#location{
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
+  color:white;
+  font-size: 18px;
+}
+#time{
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
+  color:white;
+  font-size: 15px;
+  font-style: italic;
+}
+#description{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color:white;
+  font-size: 15px;
+  margin-top: 25px;
+}
