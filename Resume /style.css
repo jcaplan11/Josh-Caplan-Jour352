@@ -21,8 +21,12 @@
   background-color: #B5D5C8;
   width: 395px;
   height: 360px;
-  margin-top: 25px;
+  margin-top: 10px;
   margin-right:1250px;
+}
+
+#listL{
+  margin-left: 100px;
 }
 
 #boxR {
@@ -30,6 +34,13 @@
   width: 395px;
   height: 360px;
   margin-left: 1250px;
+  margin-top: 10px;
+  align: right;
+}
+
+#listR{
+  margin-right: 1000px;
+  align-items: auto;
 }
 
 #boxC {
@@ -70,7 +81,7 @@
   color: #B5D5C8;
   text-decoration: underline;
   font-size: 50px;
-  margin-left: 65px;
+  margin-left: 55px;
   text-transform: uppercase;
 }
 
