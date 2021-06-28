@@ -122,3 +122,9 @@
   font-size: 15px;
   margin-top: 25px;
 }
+#footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: auto;
+}
